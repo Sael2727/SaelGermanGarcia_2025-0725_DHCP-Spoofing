@@ -138,7 +138,7 @@ SW1(config-if-range)# ip dhcp snooping limit rate 15
 | Archivo | Descripción |
 |:-------:|-------------|
 | [`dhcp_spoofing.py`](dhcp_spoofing.py) | Script principal del ataque |
-| [`SaelGermanGarcia_2025-0725_DHCP_Spoofing_Informe_P1.pdf`](SaelGermanGarcia_2025-0725_DHCP_Spoofing_Informe_P1.pdf) | Documentación técnica completa |
+| [`SaelGermanGarcia_2025-0725_DHCP_Spoofing_P1.pdf`](SaelGermanGarcia_2025-0725_DHCP_Spoofing_P1.pdf) | Documentación técnica completa |
 
 ---
 
@@ -152,7 +152,7 @@ SW1(config-if-range)# ip dhcp snooping limit rate 15
 
 ## 📎 Recursos
 
-📄 **Documentación Técnica:** [Ver Informe PDF](SaelGermanGarcia_2025-0725_DHCP_Spoofing_Informe_P1.pdf)  
+📄 **Documentación Técnica:** [Ver Informe PDF](SaelGermanGarcia_2025-0725_DHCP_Spoofing_P1.pdf)  
 ▶️ **Video Demostración:** [Ver en YouTube](https://youtube.com/playlist?list=PLV_dKVnYXf6dpmk3j8uXPHAZdbrkCQGAY)
 
 ---
